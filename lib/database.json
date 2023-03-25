@@ -1,13 +1,13 @@
 {
   "users": {
-    "918156874290@s.whatsapp.net": {
+    "6285240184110@s.whatsapp.net": {
       "afkTime": -1,
       "banned": false,
       "afkReason": ""
     }
   },
   "chats": {
-    "918156874290@s.whatsapp.net": {
+    "6285240184110@s.whatsapp.net": {
       "mute": false,
       "setWelcome": "",
       "setLeave": ""
@@ -40,7 +40,7 @@
   "absen": {},
   "cmd": {},
   "settings": {
-    "918156874290@s.whatsapp.net": {
+    "6285240184110@s.whatsapp.net": {
       "autobio": true,
       "available": false,
       "composing": false,
